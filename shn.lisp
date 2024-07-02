@@ -1,7 +1,7 @@
 ;;;; shn.lisp
 
-(eval-when (:compile-toplevel :load-toplevel :execute)
-  (use-package :cl-user))
+;(eval-when (:compile-toplevel :load-toplevel :execute)
+;  (use-package :cl-user))
 
 (in-package :shn)
 
